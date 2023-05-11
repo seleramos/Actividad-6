@@ -1,0 +1,16 @@
+.p-contenedor {
+    color: green;
+}
+
+body section.main .contenedor p {
+    color: green;
+}
+
+.contenedor #boton-contenedor {
+    background-color: yellow;
+}
+
+#elemento-1 {
+    color:red;
+    font-size: 2rem;
+}
